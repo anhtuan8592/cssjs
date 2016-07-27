@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://nhadattphcm24h.com/ target='_blank'><img src='http://nhadattphcm24h.com/wp-content/uploads/2016/06/banner2-1.jpg' width='500px'/><br/>bella vista</a>. khu đô thị tây bắc tphcm <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://nhadattphcm24h.com/' target='_blank'><img src='http://nhadattphcm24h.com/wp-content/uploads/2016/06/banner2-1.jpg' width='500px'/><br/>bella vista</a>. khu đô thị tây bắc tphcm <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
