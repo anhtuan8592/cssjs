@@ -1,8 +1,8 @@
 
-	var url_popup = 'http://nhadattphcm24h.com';
+	var url_popup = 'http://datnenso.vn/';
 
       //<![CDATA[
-	  // var url_ppp = 'http://nhadattphcm24h.com';
+	  // var url_ppp = 'http://datnenso.vn/';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
