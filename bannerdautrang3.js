@@ -1,5 +1,5 @@
 //please contact me ngovantuan66@gmai.com
-//website http://nhadattphcm24h.com or http://bandatnenduans.blogspot.com
+//website http://datnenso.vn/ or http://nhadattphcm24h.com/
 
 (function($) {
     $.fn.linhnguyen = function(options) {        
@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://nhadattphcm24h.com/du-an-noi-bat/ban-nha-hoc-mon-mat-tien-nguyen-van-bua.html' target='_blank'><img src='http://nhadattphcm24h.com/wp-content/uploads/2017/04/nhadattphcm-2.jpg' width='500px'/><br/>Nhà Phố Thương Mại Hóc Môn</a>. Khu Đô Thị Nghỉ Dưỡng Lý Tưởng-Hiện Đại <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://datnenso.vn/' target='_blank'><img src='http://datnenso.vn/wp-content/themes/datnenso/images/nha%20trang%20center.JPG' width='500px'/><br/>Nhận tư vấn miễn phí đón đầu các dự án</a>. đất nền số nơi trao gửi niềm tin <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
