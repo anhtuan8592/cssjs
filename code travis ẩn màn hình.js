@@ -1,8 +1,8 @@
 
-	var url_popup = 'http://datnenso.vn/';
+	var url_popup = 'https://bat-dong-santt.blogspot.com/';
 
       //<![CDATA[
-	  // var url_ppp = 'http://datnenso.vn/';
+	  // var url_ppp = 'https://bat-dong-santt.blogspot.com/';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
