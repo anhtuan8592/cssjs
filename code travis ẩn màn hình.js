@@ -1,8 +1,8 @@
 
-	var url_popup = 'https://bat-dong-santt.blogspot.com/';
+	var url_popup = 'http://nhadattphcm24h.com/dat-hoc-mon/';
 
       //<![CDATA[
-	  // var url_ppp = 'https://bat-dong-santt.blogspot.com/';
+	  // var url_ppp = 'http://nhadattphcm24h.com/dat-hoc-mon/';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
