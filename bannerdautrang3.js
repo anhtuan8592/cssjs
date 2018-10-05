@@ -1,5 +1,5 @@
 //please contact me ngovantuan66@gmai.com
-//website http://datnenso.vn/ or http://nhadattphcm24h.com/
+//website http://datnenso.vn/ or https://datnenso.vn/dat-hoc-mon/
 
 (function($) {
     $.fn.linhnguyen = function(options) {        
