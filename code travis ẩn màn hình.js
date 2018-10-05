@@ -2,7 +2,7 @@
 	var url_popup = 'http://datnenso.vn/dat-hoc-mon/';
 
       //<![CDATA[
-	  // var url_ppp = 'http://datnenso.vn/dat-hoc-mon/';
+	  // var url_ppp = 'https://datnenso.vn/dat-nen-long-an/';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
