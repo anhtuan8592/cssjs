@@ -1,8 +1,8 @@
 
-	var url_popup = 'http://nhadattphcm24h.com/';
+	var url_popup = 'https://datnenso.vn/dat-nen-long-an/';
 
       //<![CDATA[
-	  // var url_ppp = 'http://bit.ly/1KmPNYe';
+	  // var url_ppp = 'https://datnenso.vn/dat-nen-long-an/';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
