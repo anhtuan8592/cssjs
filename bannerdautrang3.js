@@ -1,5 +1,5 @@
 //please contact me ngovantuan66@gmai.com
-//website http://datnenso.vn/ or https://datnenso.vn/dat-hoc-mon/
+//website http://datnenso.vn/ or https://datnenso.vn/
 
 (function($) {
     $.fn.linhnguyen = function(options) {        
@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://datnenso.vn/' target='_blank'><img src='http://datnenso.vn/wp-content/themes/datnenso/images/nha%20trang%20center.JPG' width='500px'/><br/>Nhận tư vấn miễn phí đón đầu các dự án</a>. đất nền số nơi trao gửi niềm tin <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://datnenso.vn/dat-hoc-mon/' target='_blank'><img src='https://datnenso.vn/dat-hoc-mon/wp-content/themes/datnenso/images/nha%20trang%20center.JPG' width='500px'/><br/>Nhận tư vấn miễn phí đón đầu các dự án</a>. đất nền số nơi trao gửi niềm tin <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
